@@ -1,6 +1,6 @@
 # **Proyecto de Análisis de Datos**
 
-El proyecto contiene los  **mmmmmm** por cada categoría en **Gmmmm, con información de las calificaciones y otros datos como precio y número de instalaciones.
+El proyecto contiene los trabajos realizados en el bootcamp por cada categoría realizada por los alumnos, con información de las calificaciones y otros datos como precio y número de instalaciones.
 
 
 ## Google Slides
